@@ -1,0 +1,43 @@
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+label {
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+input[type="text"] {
+    margin: 0 auto;
+    display: block;
+    font-size: 18px;
+    width: 50%;
+    padding: 6px 12px;
+    box-sizing: border-box;
+}
+
+button {
+    display: inline-block;
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 18px;
+    background-color: #0dcaf0;
+    color: white;
+}
+
+.button-container {
+    text-align: center;
+}
+
+.button-container button:first-child {
+    margin-right: 20px;
+}
+
+body{
+    background-image: url(/Users/rashaanrichardson/Desktop/charlie_2023/preparedness-assessment-Rashaan-Richardson/preparedness-frontend/src/assets/background-image.jpeg);
+}
